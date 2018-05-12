@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29435#O-que-fazem-mulheres--Romance-philosophico
 edition_note: Quarta edição
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2009-07-18'
