@@ -50,5 +50,6 @@ series_note: "Obras de Camillo Castello Branco\r\nEdição Popular\r\nLVII"
 subjects:
 - !lcc 'PQ'
 - !lcsh 'Portuguese fiction -- 19th century'
+- GITenberg
 title: 'O que fazem mulheres: Romance philosophico'
 url: http://www.gutenberg.org/ebooks/29435
